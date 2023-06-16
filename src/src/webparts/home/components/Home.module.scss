@@ -1,0 +1,45 @@
+@import '~@fluentui/react/dist/sass/References.scss';
+
+.home {
+  background-color: white;
+}
+
+.welcome {
+  text-align: center;
+}
+
+.welcomeImage {
+  width: 100%;
+  max-width: 420px;
+}
+
+.botIcon {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 9999;
+  height: 60px;
+  width: 60px;
+}
+
+.modalheight {
+  height: 800px;
+}
+
+
+// .modal-content {
+//   background-color: #ffffff;
+//   border-radius: 0;
+//   border: none;
+// }
+
+// .modal-body {
+//   padding: 0;
+// }
+
+// @media (min-width: 576px) {
+//   .modal-dialog {
+//     max-width: 600px;
+//     margin: 1.75rem auto;
+//   }
+// }
